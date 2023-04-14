@@ -3,8 +3,7 @@
 La gestion de ses biens immobiliers
 
 Le type de bien sont listés en *enum*
-
-          enum typeBien {Maison, Appartement, Voiture, Telephone}
+enum typeBien {Maison, Appartement, Voiture, Telephone}
 
 
 Mais sinon le reste est clair. 
