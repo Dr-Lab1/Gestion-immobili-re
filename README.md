@@ -13,3 +13,7 @@ L'exécution de ce scrypt peut se faire dans l'environnement de votre choix tel 
 
 ## Sur VS Code
 `Installer l'extension Truffle`
+
+Ou
+
+`Installer Ganache CLI`
