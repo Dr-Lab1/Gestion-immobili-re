@@ -11,5 +11,5 @@ Mais sinon le reste est clair.
 
 L'exécution de ce scrypt peut se faire dans l'environnement de votre choix tel que Remix, VS Code, .....
 
-Sur VS Code
+## Sur VS Code
 `Installer l'extension Truffle`
